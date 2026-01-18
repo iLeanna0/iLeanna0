@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Hi, My Name Is Ileana and I am based in Dublin,  Ireland <br>🌱I am a computer science graduate from TU Dublin looking to start my professional carreer. <br><br>I love working with Python and SQL, and I’m always curious about new languages. <br>I spent a semester abroad at h_da for my erasmus where I learned Rust, and I taught myself Kotlin in my last year of college for my Final Year Project. <br>I enjoy learning new technologies, experimenting with different programming languages, and expanding my skills through both coursework and self-directed study.
+🔭Hi, My Name is Ileana and I am based in Dublin,  Ireland <br>🌱I am a computer science graduate from TU Dublin looking to start my professional carreer. <br><br>I love working with Python and SQL, and I’m always curious about new languages. <br>I spent a semester abroad at h_da for my erasmus where I learned Rust, and I taught myself Kotlin in my last year of college for my Final Year Project. <br>I enjoy learning new technologies, experimenting with different programming languages, and expanding my skills through both coursework and self-directed study.
 
 
 ## 🌐 Socials:
